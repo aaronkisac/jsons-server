@@ -1,0 +1,23 @@
+{
+  "name": "jsons-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "json:server": "json-server --watch db.json"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/harunkisacuk/jsons-server.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/harunkisacuk/jsons-server/issues"
+  },
+  "homepage": "https://github.com/harunkisacuk/jsons-server#readme",
+  "dependencies": {
+    "json-server": "^0.16.3"
+  }
+}
