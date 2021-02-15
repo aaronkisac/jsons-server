@@ -4,6 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "start": "npm run json:server",
     "json:server": "json-server --watch db.json"
   },
   "repository": {
